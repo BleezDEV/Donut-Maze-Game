@@ -5,3 +5,7 @@
 -You are deployed in a randomly generated maze, and you have 20 seconds to collect as many donuts as you can.
 
 -WASD to move the character up, down, left, and right
+
+-This was one of my first python games, and I programmed it when I didn't know OOP, so there are no game objects.
+
+-I hope to one day have the time to add OOP and fix some of the code.
